@@ -12,3 +12,5 @@ MIDI: Ausnahme DIP Schalter 0000 = MIDI channel 16!
 
 Programme:  
 (0) note on schaltet ein, note off schaltet aus.  
+
+![ein Bild](midifreund_mosfet_foto.jpg?raw=true "ein Foto")
